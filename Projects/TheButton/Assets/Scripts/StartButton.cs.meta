@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 375d6dd7c69834e99a18aaab9e2fc362
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _cake: {instanceID: 0}
+  - _cake2: {fileID: 21300000, guid: 6dacbc3c7653d4c6383955aaa6404a43, type: 3}
+  - _cake3: {fileID: 21300000, guid: 15541045b0a5c4feeb2099b39312cba6, type: 3}
+  - _cake4: {fileID: 21300000, guid: 2dfc272e0bdec4a24adc9f6acd891876, type: 3}
+  - _cake5: {fileID: 21300000, guid: 8536967349c1f4b4d83a355974a55cc0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
